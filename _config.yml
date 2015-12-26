@@ -1,0 +1,28 @@
+name: Dad to Daughters
+favicon: null
+layout_spectrum: 0.04997307062149048
+typography_spectrum: 0.3546171037014574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8802649031858891
+  lightness: 0.16809945227578282
+  saturation: 0.7690055374987423
+  rhythmicContrast: 0.9325694150757045
+purpose: []
