@@ -1,6 +1,6 @@
 name: Dad to Daughters
 favicon: null
-layout_spectrum: 0.04997307062149048
+layout_spectrum: 0.24744
 typography_spectrum: 0.3546171037014574
 title: Dad to Daughters
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#050402'
+    - '#997a6d'
+    - '#331e11'
+    - '#bea9a1'
+    - '#ead7ca'
   brandStrength: 0.8802649031858891
   lightness: 0.16809945227578282
-  saturation: 0.7690055374987423
+  saturation: 0.75
   rhythmicContrast: 0.9325694150757045
 purpose: []
