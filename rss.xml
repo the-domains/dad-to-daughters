@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dad to Daughters]]></title>
         <description><![CDATA[Dad to Daughters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dad-to-daughters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 20:42:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 21:14:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dad-to-daughters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Dad to Daughters]]></title>
+            <description><![CDATA[<article><h1>About Dad to Daughters</h1><p>Welcome. Thank you for reading. I hope you enjoy this blog.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7e3144caeee385368a50e4780f210c1f1a92fa6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dad-to-daughters/about-dad-to-daughters/index.html</link>
+            <guid isPermaLink="false">bd39856b-20cc-4efc-951e-a7f187443992</guid>
+            <pubDate>Sat, 26 Dec 2015 21:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Always Build Your House With Wisdom]]></title>
             <description><![CDATA[<article><h1>Always Build Your House With Wisdom</h1><p>This is the first letter to my daughters that I love very, very much.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afb9a0f397a8c0b422de338dc8cfa4ceb532872c.png"></article>]]></description>
-            <link>undefinedalways-build-your-house-with-wisdom/index.html</link>
+            <link>https://thegrid.ai/dad-to-daughters/always-build-your-house-with-wisdom/index.html</link>
             <guid isPermaLink="false">c00130e6-70cb-4511-92f3-ca6d601faae3</guid>
             <pubDate>Sat, 26 Dec 2015 20:42:40 GMT</pubDate>
         </item>
