@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T22:00:28.242Z'
-dateModified: '2015-12-26T22:00:12.855Z'
+datePublished: '2016-01-27T13:23:27.908Z'
+dateModified: '2015-12-26T22:28:04.360Z'
 title: "Every Outcome Is The Right\_Outcome"
 author: []
+sourcePath: _posts/2015-12-26-every-outcome-is-the-right-outcome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-every-outcome-is-the-right-outcome.md
-published: true
 url: every-outcome-is-the-right-outcome/index.html
 _type: Article
 
