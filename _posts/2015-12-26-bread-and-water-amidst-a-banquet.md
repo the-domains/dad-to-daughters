@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T22:29:40.625Z'
-dateModified: '2015-12-26T22:23:55.800Z'
+datePublished: '2016-01-27T13:23:15.239Z'
+dateModified: '2015-12-26T22:33:45.423Z'
 title: "Bread And Water Amidst A\_Banquet"
 author: []
+sourcePath: _posts/2015-12-26-bread-and-water-amidst-a-banquet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-bread-and-water-amidst-a-banquet.md
-published: true
 url: bread-and-water-amidst-a-banquet/index.html
 _type: Article
 
@@ -28,9 +28,9 @@ My girls,
 
 It is 2:24pm on a lovely Wednesday, November 17th, 2010\. The sky is clear and bright. Before you both read this letter, I want to tell you I love you.
 
-Today I want to spend a moment and share a mental exercise with you that I call**Bread and Water**. Let's begin.
+Today I want to spend a moment and share a mental exercise with you that I call **Bread and Water**. Let's begin.
 
-**The Bread**-- Exercise to clear your mind
+# **The Bread**-- Exercise to clear your mind
 
 Start by closing your eyes. Inhale calmly through your nose ...now exhale calmly out of your mouth. Repeat this breathing until the [gentle answer][0] within you arises and quiets your space. If a tear arises, let your cry be your own. If laughter arises, laugh and giggle as long as you wish. Embrace whatever arises until you reach that quiet space. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2280fa-cd2f-4c72-a5f8-002a608ba10e.jpg)
 
@@ -40,7 +40,7 @@ Now mentally place yourself at an overlook. Look at all of the mountains, trees 
 
 Say this as long as you please.
 
-**The Water**-- Exercise to clear your soul
+# **The Water**-- Exercise to clear your soul
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e2d204-0b1f-4e2c-8d81-9ab18ec04e1a.png)
 
 Now I want you both to mentally place yourselves in the middle of a heavily populated location; I call this the**banquet**. You could be there walking or standing still. Each time you pass or encounter someone, I want you to say these words to the person ...
